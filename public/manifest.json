@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Crud de pessoas e cidades",
+  "name": "Crud de pessoas e cidades",
   "icons": [
     {
       "src": "favicon.ico",
